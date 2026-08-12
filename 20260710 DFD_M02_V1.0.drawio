@@ -470,7 +470,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MohonInspektorat" id="EZU50FIhfk8xqV-s1J1b">
-    <mxGraphModel dx="3112" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2648" dy="168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ztllzQiUqz0ED2Kdbb4n-0" />
         <mxCell id="ztllzQiUqz0ED2Kdbb4n-1" parent="ztllzQiUqz0ED2Kdbb4n-0" />
@@ -741,7 +741,7 @@
         <mxCell id="tUyinU5mhzMyCEO2VrAr-2" edge="1" parent="Pzt9kd0YU7c-ZKbClb9U-1" source="qfi9MCugnhB1bW5eo2ku-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tUyinU5mhzMyCEO2VrAr-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tUyinU5mhzMyCEO2VrAr-4" connectable="0" parent="tUyinU5mhzMyCEO2VrAr-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Rekod&amp;nbsp;&amp;nbsp;" vertex="1">
+        <mxCell id="tUyinU5mhzMyCEO2VrAr-4" connectable="0" parent="tUyinU5mhzMyCEO2VrAr-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Rekod Permohonan&amp;nbsp;&amp;nbsp;" vertex="1">
           <mxGeometry relative="1" x="-0.3286" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -848,6 +848,11 @@
               <mxPoint x="747.03" y="123" />
               <mxPoint x="747.03" y="174.79" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWK-onIr2uPM3DozS0p5-0" connectable="0" parent="tUyinU5mhzMyCEO2VrAr-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Rekod Permohonan" vertex="1">
+          <mxGeometry relative="1" x="0.6141" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tUyinU5mhzMyCEO2VrAr-0" parent="Pzt9kd0YU7c-ZKbClb9U-1" style="whiteSpace=wrap;html=1;align=center;" value="Permohonan Inspektorat" vertex="1">
